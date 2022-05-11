@@ -1,0 +1,20 @@
+.vscode
+.history
+
+__pycache__
+
+.ipynb_checkpoints/
+
+postgres_data/
+
+# App files
+ecommerce/static/
+static/
+
+# Celery
+celerybeat-schedule
+
+# Env script
+scripts/setenv.sh
+
+*.env
